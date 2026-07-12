@@ -50,7 +50,7 @@ export const PROJECTS: Project[] = [
     "Travel Planner",
     "Responsive"
   ],
-  category: "Full Stack Development",
+category: "Web Development",
   tech: [
     "Next.js 15",
     "TypeScript",
