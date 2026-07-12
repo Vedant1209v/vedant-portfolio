@@ -8,7 +8,7 @@ export const SITE = {
   location: "Maharashtra, India",
   github: "https://github.com/Vedant1209v/",
   githubUsername: "Vedant1209v",
-  linkedin: "https://www.linkedin.com/in/vedant-landge1009/",
+  linkedin: "https://www.linkedin.com/in/vedant-landge-4a67b8328",
   resumeUrl: "/resume.pdf",
   taglines: [
     "Python Developer",

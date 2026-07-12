@@ -38,17 +38,30 @@ export const PROJECTS: Project[] = [
     github: "https://github.com/vedantlandge/rock-paper-scissors",
   },
   {
-    id: "weather-app",
-    title: "Weather App",
-    description:
-      "Live weather lookup by city with a REST API integration, unit toggling, and a 5-day forecast view.",
-    image: "/projects/weather-app.svg",
-    tags: ["API", "Frontend"],
-    category: "Web Development",
-    tech: ["JavaScript", "REST API", "CSS"],
-    github: "https://github.com/vedantlandge/weather-app",
-    demo: "https://weather.vedantlandge.dev",
-  },
+  id: "ai-weather-outfit-advisor",
+  title: "Skyline – AI Weather & Outfit Advisor",
+  description:
+    "A modern AI-powered weather application that provides real-time weather forecasts, air quality, intelligent outfit recommendations, travel planning, interactive charts, dark/light mode, and responsive design using the OpenWeather API.",
+  image: "/projects/skyline-weather.png", // Replace with your project screenshot
+  tags: [
+    "Next.js",
+    "AI",
+    "Weather API",
+    "Travel Planner",
+    "Responsive"
+  ],
+  category: "Full Stack Development",
+  tech: [
+    "Next.js 15",
+    "TypeScript",
+    "React",
+    "Tailwind CSS",
+    "OpenWeather API",
+    "Framer Motion"
+  ],
+  github: "https://github.com/Vedant1209v/ai-weather-outfit-advisor",
+  demo: "https://ai-weather-outfit-advisor.netlify.app",
+},
   {
     id: "qr-generator",
     title: "QR Generator",
